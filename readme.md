@@ -13,3 +13,8 @@ git init
 # 본인의 github에서 가장 긴 줄을 복사하여 아래에 붙여 실행한다.
 git remote add origin https://github.com/booldook/2019-ay-pf-sample.git
 ~~~
+
+### 집에서 연결하기 위해서는 아래의 과정을 (프로젝트별로)한번만 거친다
+~~~bash
+git clone https://github.com/booldook/2019-ay-pf-sample.git
+~~~
